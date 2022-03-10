@@ -1,4 +1,8 @@
 {
   "name": "Lorem Ipsum",
+  "sidebar": [
+    ["Overview", "/"],
+    ["More", "/more"]
+  ],
   "experimentalCodehike": true
 }
